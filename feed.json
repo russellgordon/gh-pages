@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Russell Gordon&#x27;s Wisdom",
+    "description": "",
+    "home_page_url": "https://russellgordon.github.io/gh-pages",
+    "feed_url": "https://russellgordon.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Russell Gordon"
+    },
+    "items": [
+        {
+            "id": "https://russellgordon.github.io/gh-pages/coding-clubs-are-great.html",
+            "url": "https://russellgordon.github.io/gh-pages/coding-clubs-are-great.html",
+            "title": "Coding Clubs Are Great",
+            "summary": "The quick brown fox jumped over the lazy dog and ran to Coding Club, because Coding Club is great.",
+            "content_html": "<p>The quick brown fox jumped over the lazy dog and ran to Coding Club, because Coding Club is great.</p>",
+            "author": {
+                "name": "Russell Gordon"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-24T16:26:32-05:00",
+            "date_modified": "2022-01-24T16:26:46-05:00"
+        }
+    ]
+}
